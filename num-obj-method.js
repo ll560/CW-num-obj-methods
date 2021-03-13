@@ -5,7 +5,7 @@
 //Example: Convert the integer 321 into a string
 //Example answer: 
 let x  = 321;
-let y = x.toString();
+let y = x.toString();    
 console.log(y)
 //Example result:“321”
 
